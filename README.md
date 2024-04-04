@@ -4,7 +4,7 @@
 **Projects** <br/> [**1.Transformer From Scratch**](https://github.com/kshitijdshah99/Transformer-From-Scratch)
    Implemented a Transformer using Numpy and Cupy libraries to make AI-chatbots and an AI-assistant for English to German translation. Pre-trained our scratch model and then      made a library using PyPI(Python Packaging index). <br/> [**2.StockRush**](https://github.com/kshitijdshah99/StockRush_InfoSHAHs)
    A stock market game where players can join in commuinty and trade stocks of 50 companies with 100+ real time news. Implemented sentiment analysis using transformers.<br/>[**3. Karigar**](https://github.com/kshitijdshah99/SPIT-HACKATHON)
-   Developed a website for poor artisans where they can sell their products and making captions, images, blogs to be put up on social site.Used Gemini and stable diffusion models for the same.</p>
+   Developed a website for poor artisans where they can sell their products and making captions, images, blogs to be put up on social site. Used Gemini and diffusion models for the same.</p>
 
 
 # 💻 Tech Stack:
